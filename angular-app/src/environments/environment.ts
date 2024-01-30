@@ -9,8 +9,8 @@ export const environment = {
     // Url of the Identity Provider
     issuer: 'http://localhost:8081',
     // Realm
-    realm: 'test-app',
-    clientId: 'frontend'
+    realm: 'rekod-saya',
+    clientId: 'person-portal'
   },
 };
 
